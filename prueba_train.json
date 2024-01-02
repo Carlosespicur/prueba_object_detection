@@ -1,8 +1,8 @@
 {
     "images": {
-        "0": {"image_id": "2538_c18f4a32-bb49-46d2-b200-c713a7780779.tif", "filename": "xview_test/2538_c18f4a32-bb49-46d2-b200-c713a7780779.tif", "num_objects": 2, "width": 600, "height": 600},
-        "1": {"image_id": "2606_a83eaea3-9935-46e6-b76c-004bfd841a16.tif", "filename": "xview_test/2606_a83eaea3-9935-46e6-b76c-004bfd841a16.tif", "num_objects": 1, "width": 600, "height": 600},
-        "2": {"image_id": "2606_c6d744db-ef79-4f92-b008-8865385cc414.tif", "filename": "xview_test/2606_c6d744db-ef79-4f92-b008-8865385cc414.tif", "num_objects": 2, "width": 600, "height": 600}
+        "0": {"image_id": "2538_c18f4a32-bb49-46d2-b200-c713a7780779.tif", "filename": "2538_c18f4a32-bb49-46d2-b200-c713a7780779.tif", "num_objects": 2, "width": 600, "height": 600},
+        "1": {"image_id": "2606_a83eaea3-9935-46e6-b76c-004bfd841a16.tif", "filename": "2606_a83eaea3-9935-46e6-b76c-004bfd841a16.tif", "num_objects": 1, "width": 600, "height": 600},
+        "2": {"image_id": "2606_c6d744db-ef79-4f92-b008-8865385cc414.tif", "filename": "2606_c6d744db-ef79-4f92-b008-8865385cc414.tif", "num_objects": 2, "width": 600, "height": 600}
     },
     "annotations": {
         "0": {"image_id": "2538_c18f4a32-bb49-46d2-b200-c713a7780779.tif", "category_id": "Motorboat", "bbox": [38, 33, 50, 49]},
